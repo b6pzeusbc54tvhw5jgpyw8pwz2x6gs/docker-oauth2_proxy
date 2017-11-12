@@ -1,5 +1,5 @@
 NAME = skippy/oauth2_proxy
-VERSION = 2.0.1
+VERSION = 2.2
 
 all: build
 
